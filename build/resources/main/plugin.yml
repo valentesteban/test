@@ -1,0 +1,5 @@
+name: Test
+version: 1.0.0
+author: Valente Esteban
+description: A basic replica of the SpreenDMC mini game YouTube serie,
+main: me.valentesteban.test.Test
